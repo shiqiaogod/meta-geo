@@ -1,24 +1,3 @@
-# 域名后缀匹配
-DOMAIN-SUFFIX,baidu.cn
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,1688.com
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,10jqka.com
-DOMAIN-SUFFIX,pinduoduo.com
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,m-team.io
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,126.com
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,1688.com
-DOMAIN-SUFFIX,erp321.com
-DOMAIN-SUFFIX,v2free.cc
-DOMAIN-SUFFIX,v2free.top
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,alipan.com
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
